@@ -32,6 +32,7 @@ Participant 2
 Participant 3
 
 6
+
 ![DW7](https://github.com/dipanshuu/DecentraWin/assets/84615076/3edd619b-19dc-4c02-98dd-301454d404a2)
 
 Manager Account Address has been auhorized to view balance of Lottery,Select Winner of the Lottery
